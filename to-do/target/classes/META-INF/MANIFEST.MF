@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: to-do
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ysathe
+Implementation-Vendor-Id: To_doList
+Build-Jdk: 1.8.0_162
+Implementation-URL: http://projects.spring.io/spring-boot/to-do/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
