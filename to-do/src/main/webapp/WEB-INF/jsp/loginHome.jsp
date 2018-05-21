@@ -35,7 +35,7 @@
 			<a href="<spring:url value='/orders' />">View Orders</a>
 		</div> <br>
 		<div class="alert-normal">
-			 <a href="<spring:url value='/orders' />">Add Drug</a>
+			 <a href="<spring:url value='/medicinemaster' />">Add Drug</a>
 		</div>
 	</div>
 </body>
